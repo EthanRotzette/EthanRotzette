@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![EthanRotzetter's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanRotzette&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF)
+![EthanRotzetter's GitHub stats](https://vercel-n84tmx4qx-ethanrotzettes-projects.vercel.app/api?username=EthanRotzette)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanRotzette&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF)
+![Top Langs](https://vercel-n84tmx4qx-ethanrotzettes-projects.vercel.app/api/top-langs/?username=EthanRotzette)
 
 </div>
 
