@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![EthanRotzetter's GitHub stats](https://vercel-n84tmx4qx-ethanrotzettes-projects.vercel.app/api?username=EthanRotzette)
+![EthanRotzetter's GitHub stats](https://vercel-fuq63ks0b-ethanrotzettes-projects.vercel.app/api?username=EthanRotzette)
 
-![Top Langs](https://vercel-n84tmx4qx-ethanrotzettes-projects.vercel.app/api/top-langs/?username=EthanRotzette)
+![Top Langs](https://vercel-fuq63ks0b-ethanrotzettes-projects.vercel.app/api/top-langs/?username=EthanRotzette&show_icons=true&theme=transparent)
 
 </div>
 
