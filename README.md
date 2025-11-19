@@ -42,9 +42,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![EthanRotzetter's GitHub stats](https://vercel-fuq63ks0b-ethanrotzettes-projects.vercel.app/api?username=EthanRotzette)
-
-![Top Langs](https://vercel-fuq63ks0b-ethanrotzettes-projects.vercel.app/api/top-langs/?username=EthanRotzette&show_icons=true&theme=transparent)
+<a href="https://github.com/EthanRotzette/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanRotzette&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 
 </div>
 
