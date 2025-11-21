@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+<!--
 ## 📊 Mes Stats GitHub
 
 <div align="center">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+-->
 ## 🌐 Me retrouver ailleurs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-rotzetter/)
