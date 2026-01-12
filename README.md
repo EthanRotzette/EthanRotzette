@@ -37,17 +37,16 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<!--
 ## 📊 Mes Stats GitHub
 
-<div align="center">
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanRotzette&theme=dark)
 
-<a href="https://github.com/EthanRotzette/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanRotzette&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryan-DPC&theme=tokyonight)
 
+</div>
 </div>
 
 ---
--->
 ## 🌐 Me retrouver ailleurs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-rotzetter/)
